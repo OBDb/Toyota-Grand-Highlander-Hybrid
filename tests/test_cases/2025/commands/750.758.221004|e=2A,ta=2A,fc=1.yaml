@@ -1,0 +1,28 @@
+command_id: 750.758.221004|e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    TOYOTA_TT_1_V2: 35
+    TOYOTA_TT_2_V2: 33
+    TOYOTA_TT_3_V2: 33
+    TOYOTA_TT_4_V2: 31
+    TOYOTA_TT_FL_V2: 35
+    TOYOTA_TT_FR_V2: 33
+    TOYOTA_TT_RL_V2: 33
+    TOYOTA_TT_RR_V2: 31
+    TOYOTA_TT_SPARE_V2: -40
+  response: |-
+    7582A10086210044B49
+    7582A21494700000000
+- expected_values:
+    TOYOTA_TT_1_V2: 36
+    TOYOTA_TT_2_V2: 33
+    TOYOTA_TT_3_V2: 33
+    TOYOTA_TT_4_V2: 31
+    TOYOTA_TT_FL_V2: 36
+    TOYOTA_TT_FR_V2: 33
+    TOYOTA_TT_RL_V2: 33
+    TOYOTA_TT_RR_V2: 31
+    TOYOTA_TT_SPARE_V2: -40
+  response: |-
+    7582A10086210044C49
+    7582A21494700000000
