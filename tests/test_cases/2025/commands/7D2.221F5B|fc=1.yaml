@@ -1,8 +1,8 @@
 command_id: 7D2.221F5B|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_SOC: 38.82353
-  response: 7DA04621F5B63
+    TOYOTA_SOC: 23.13725
+  response: 7DA04621F5B3B
 - expected_values:
     TOYOTA_SOC: 76.86275
   response: 7DA04621F5BC4

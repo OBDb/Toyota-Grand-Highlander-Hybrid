@@ -8,10 +8,28 @@ test_cases:
     7DA2163020080690400
 - expected_values:
     TOYOTA_RPM: 0
-    TOYOTA_TQ: 8.125
+    TOYOTA_TQ: -0.75
   response: |-
     7DA100C6210A1800080
-    7DA2140020080410400
+    7DA210002007FFA0400
+- expected_values:
+    TOYOTA_RPM: 0
+    TOYOTA_TQ: -0.125
+  response: |-
+    7DA100C6210A1800080
+    7DA210002007FFF0400
+- expected_values:
+    TOYOTA_RPM: 0
+    TOYOTA_TQ: 0
+  response: |-
+    7DA100C6210A1800080
+    7DA2100020080000400
+- expected_values:
+    TOYOTA_RPM: 0
+    TOYOTA_TQ: 0.25
+  response: |-
+    7DA100C6210A1800080
+    7DA21000C0080020000
 - expected_values:
     TOYOTA_RPM: 0
     TOYOTA_TQ: 19.375
@@ -19,53 +37,17 @@ test_cases:
     7DA100C6210A1800080
     7DA219F0200809B0400
 - expected_values:
-    TOYOTA_RPM: 0
-    TOYOTA_TQ: 23.875
-  response: |-
-    7DA100C6210A1800080
-    7DA21C0020080BF0400
-- expected_values:
-    TOYOTA_RPM: 1
-    TOYOTA_TQ: 22
-  response: |-
-    7DA100C6210A1800180
-    7DA21A4020080B00400
-- expected_values:
     TOYOTA_RPM: 13
     TOYOTA_TQ: 34
   response: |-
     7DA100C6210A1800D81
     7DA211E020081100400
 - expected_values:
-    TOYOTA_RPM: 20
-    TOYOTA_TQ: 32.875
-  response: |-
-    7DA100C6210A1801481
-    7DA210C020081070400
-- expected_values:
     TOYOTA_RPM: 294
     TOYOTA_TQ: 31.5
   response: |-
     7DA100C6210A1812680
     7DA21F5020080FC0400
-- expected_values:
-    TOYOTA_RPM: 431
-    TOYOTA_TQ: -36
-  response: |-
-    7DA100C6210A181AF7E
-    7DA21DF02007EE00400
-- expected_values:
-    TOYOTA_RPM: 587
-    TOYOTA_TQ: -1.625
-  response: |-
-    7DA100C6210A1824B7F
-    7DA21EE02007FF30400
-- expected_values:
-    TOYOTA_RPM: 1087
-    TOYOTA_TQ: 0
-  response: |-
-    7DA100C6210A1843F80
-    7DA2100020080000400
 - expected_values:
     TOYOTA_RPM: 1207
     TOYOTA_TQ: -191.625
@@ -85,8 +67,8 @@ test_cases:
     7DA100C6210A186FF7D
     7DA216A02007D6A0400
 - expected_values:
-    TOYOTA_RPM: 2461
-    TOYOTA_TQ: -71.625
+    TOYOTA_RPM: 2314
+    TOYOTA_TQ: -96.625
   response: |-
-    7DA100C6210A1899D7D
-    7DA21E202007DC30400
+    7DA100C6210A1890A7C
+    7DA21EC02007CFB0400
