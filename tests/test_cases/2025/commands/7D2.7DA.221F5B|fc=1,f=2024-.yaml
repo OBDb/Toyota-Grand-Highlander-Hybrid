@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F5B|fc=1,f=2024-
+test_cases:
+- expected_values:
+    GRAND_HIGHLANDER_HYBRID_SOC: 23.13725
+  response: 7DA04621F5B3B
+- expected_values:
+    GRAND_HIGHLANDER_HYBRID_SOC: 76.86275
+  response: 7DA04621F5BC4

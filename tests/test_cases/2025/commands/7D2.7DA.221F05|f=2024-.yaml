@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F05|f=2024-
+test_cases:
+- expected_values:
+    GRAND_HIGHLANDER_HYBRID_COOL_T: 48
+  response: 7DA04621F0558
+- expected_values:
+    GRAND_HIGHLANDER_HYBRID_COOL_T: 92
+  response: 7DA04621F0584
