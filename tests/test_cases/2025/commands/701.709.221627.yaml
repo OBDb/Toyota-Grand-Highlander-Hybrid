@@ -1,8 +1,8 @@
 command_id: 701.709.221627
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_HYBRID_TF1_PAN: 53.6
+    GHH_TF1_PAN: 53.6
   response: '709056216273400'
 - expected_values:
-    GRAND_HIGHLANDER_HYBRID_TF1_PAN: 206.6
+    GHH_TF1_PAN: 206.6
   response: '709056216278900'

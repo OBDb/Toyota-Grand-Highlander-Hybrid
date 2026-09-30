@@ -1,14 +1,14 @@
 command_id: 700.708.221F3C
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_HYBRID_CAT_T_11: 89.8
+    GHH_CAT_T_11: 89.8
   response: 70805621F3C0512
 - expected_values:
-    GRAND_HIGHLANDER_HYBRID_CAT_T_11: 574.3
+    GHH_CAT_T_11: 574.3
   response: 70805621F3C17FF
 - expected_values:
-    GRAND_HIGHLANDER_HYBRID_CAT_T_11: 600
+    GHH_CAT_T_11: 600
   response: 70805621F3C1900
 - expected_values:
-    GRAND_HIGHLANDER_HYBRID_CAT_T_11: 786.3
+    GHH_CAT_T_11: 786.3
   response: 70805621F3C2047
