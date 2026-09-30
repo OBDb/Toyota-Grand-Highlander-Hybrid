@@ -1,0 +1,18 @@
+command_id: 7D2.7DA.2210A6|f=2024-
+test_cases:
+- expected_values:
+    GHH_M_INVRT_MAX_T: 32
+    GHH_RM_INVRT_COOL_T: 15
+  response: 7DA066210A6373248
+- expected_values:
+    GHH_M_INVRT_MAX_T: 24
+    GHH_RM_INVRT_COOL_T: 16
+  response: 7DA066210A6383240
+- expected_values:
+    GHH_M_INVRT_MAX_T: 68
+    GHH_RM_INVRT_COOL_T: 37
+  response: 7DA066210A64D546C
+- expected_values:
+    GHH_M_INVRT_MAX_T: 66
+    GHH_RM_INVRT_COOL_T: 59
+  response: 7DA066210A6634E6A
