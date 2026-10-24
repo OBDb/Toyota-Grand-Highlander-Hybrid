@@ -1,0 +1,8 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    GHH_DIST_SINCE_BAT_DISC: 4357
+  response: 7080562106C1105
+- expected_values:
+    GHH_DIST_SINCE_BAT_DISC: 4359
+  response: 7080562106C1107

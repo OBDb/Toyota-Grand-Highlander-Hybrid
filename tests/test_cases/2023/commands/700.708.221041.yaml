@@ -1,0 +1,14 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    GHH_ECT_IGN: 50
+    GHH_ECT_INIT: 80.625
+  response: 7080562104190C1
+- expected_values:
+    GHH_ECT_IGN: 50
+    GHH_ECT_INIT: 83.75
+  response: 7080562104190C6
+- expected_values:
+    GHH_ECT_IGN: 50
+    GHH_ECT_INIT: 86.25
+  response: 7080562104190CA

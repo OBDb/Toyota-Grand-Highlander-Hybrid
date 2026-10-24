@@ -1,0 +1,10 @@
+command_id: 700.708.22108A
+test_cases:
+- expected_values:
+    GHH_VVT_IE_DUTY_RATIO_1: -100.02347
+    GHH_VVT_IE_MOTOR_DIRECTION_FORWARD_1: 0
+  response: 7080562108A8000
+- expected_values:
+    GHH_VVT_IE_DUTY_RATIO_1: -81.16804
+    GHH_VVT_IE_MOTOR_DIRECTION_FORWARD_1: 0
+  response: 7080562108A9824

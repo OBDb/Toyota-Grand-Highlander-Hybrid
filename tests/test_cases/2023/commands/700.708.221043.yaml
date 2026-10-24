@@ -1,0 +1,14 @@
+command_id: 700.708.221043
+test_cases:
+- expected_values:
+    GHH_EWP_RPM: 2775
+    GHH_EWP_TARGET_VSS: 2775
+  response: 708056210436F6F
+- expected_values:
+    GHH_EWP_RPM: 2800
+    GHH_EWP_TARGET_VSS: 2775
+  response: 708056210436F70
+- expected_values:
+    GHH_EWP_RPM: 3300
+    GHH_EWP_TARGET_VSS: 6000
+  response: 70805621043F084
