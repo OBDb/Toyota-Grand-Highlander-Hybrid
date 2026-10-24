@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     GHH_FUEL_LEVEL: 64.02
   response: 7C8056210221902
+- expected_values:
+    GHH_FUEL_LEVEL: null
+  response: 7C805621022FFFF
