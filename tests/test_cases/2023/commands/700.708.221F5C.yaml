@@ -1,0 +1,8 @@
+command_id: 700.708.221F5C
+test_cases:
+- expected_values:
+    GHH_EOT_V2: 76
+  response: 70804621F5C74
+- expected_values:
+    GHH_EOT_V2: 77
+  response: 70804621F5C75

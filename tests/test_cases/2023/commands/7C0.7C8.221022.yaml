@@ -1,0 +1,14 @@
+command_id: 7C0.7C8.221022
+test_cases:
+- expected_values:
+    GHH_FUEL_LEVEL: 25.14
+  response: 7C80562102209D2
+- expected_values:
+    GHH_FUEL_LEVEL: 29.13
+  response: 7C8056210220B61
+- expected_values:
+    GHH_FUEL_LEVEL: 31.28
+  response: 7C8056210220C38
+- expected_values:
+    GHH_FUEL_LEVEL: 32.69
+  response: 7C8056210220CC5

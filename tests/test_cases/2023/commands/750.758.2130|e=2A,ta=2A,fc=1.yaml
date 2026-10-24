@@ -1,0 +1,26 @@
+command_id: 750.758.2130|e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    GHH_TP_FL: 2.24138
+    GHH_TP_FR: 2.36207
+    GHH_TP_RL: 2.18966
+    GHH_TP_RR: 2.17241
+  response: |-
+    7582A100761309FA69C
+    7582A219BFF00000000
+- expected_values:
+    GHH_TP_FL: 2.24138
+    GHH_TP_FR: 2.36207
+    GHH_TP_RL: 2.18966
+    GHH_TP_RR: 2.18966
+  response: |-
+    7582A100761309FA69C
+    7582A219CFF00000000
+- expected_values:
+    GHH_TP_FL: 2.25862
+    GHH_TP_FR: 2.37931
+    GHH_TP_RL: 2.2069
+    GHH_TP_RR: 2.18966
+  response: |-
+    7582A10076130A0A79D
+    7582A219CFF00000000
