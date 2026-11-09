@@ -4,8 +4,26 @@ test_cases:
     GHH_BATTERY_VOLTAGE_7C0: 0
   response: 7C80462102100
 - expected_values:
+    GHH_BATTERY_VOLTAGE_7C0: 12.4
+  response: 7C8046210217C
+- expected_values:
+    GHH_BATTERY_VOLTAGE_7C0: 12.6
+  response: 7C8046210217E
+- expected_values:
     GHH_BATTERY_VOLTAGE_7C0: 12.7
   response: 7C8046210217F
+- expected_values:
+    GHH_BATTERY_VOLTAGE_7C0: 12.8
+  response: 7C80462102180
+- expected_values:
+    GHH_BATTERY_VOLTAGE_7C0: 14.1
+  response: 7C8046210218D
+- expected_values:
+    GHH_BATTERY_VOLTAGE_7C0: 14.2
+  response: 7C8046210218E
+- expected_values:
+    GHH_BATTERY_VOLTAGE_7C0: 14.3
+  response: 7C8046210218F
 - expected_values:
     GHH_BATTERY_VOLTAGE_7C0: 14.4
   response: 7C80462102190

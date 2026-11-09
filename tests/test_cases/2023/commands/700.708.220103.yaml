@@ -4,5 +4,5 @@ test_cases:
     GHH_ENG_ODO: 19468
   response: 7080762010302004C0C
 - expected_values:
-    GHH_ENG_ODO: 19469
-  response: 7080762010302004C0D
+    GHH_ENG_ODO: 19634
+  response: 7080762010302004CB2
